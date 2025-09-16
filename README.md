@@ -1,6 +1,5 @@
 # 2025-Stablecoin-AML-Compliance-Tech-Report
 
-版本：v1.0<br>
 日期：2025 年 8 月<br>
 作者：慢雾安全团队
 
